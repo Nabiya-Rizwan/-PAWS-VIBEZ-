@@ -1,2 +1,2 @@
-# cloneeee-the-website
-heloo 1234
+# PAWS VIBEZ #
+Cat Gallery is a soft, minimal, and visually calming website created for cat lovers who enjoy peaceful vibes and cute moments. This project focuses on clean UI design, smooth image presentation, and a simple interactive experience. The image slider showcases cats in their full beauty, ensuring every photo is clearly visible from top to bottom without cropping, creating a natural and pleasant viewing experience 🖼️😺.
